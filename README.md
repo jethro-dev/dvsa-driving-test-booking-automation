@@ -20,7 +20,7 @@ We all know that feeling: trying to book a driving test slot on the DVSA website
 
 - Install the Tampermonkey extension for your browser.
 - Click on the Tampermonkey extension icon in your browser and select "Create a new script".
-- Copy and paste main.py and enjoy the automation.
+- Copy and paste main.js and enjoy the automation.
 
 ## Usage
 

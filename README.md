@@ -35,6 +35,14 @@ We all know that feeling: trying to book a driving test slot on the DVSA website
 - Postcode: Update the postcode variable with your postcode.
 - Instructor Reference Number: Update the instructorReferenceNumber variable if applicable.
 
+## Disclaimer
+
+This script is not the ultimate solution, but it's the best I could create within a limited timeframe. It is designed to automate the booking process for a standard driving test and is not configured to accommodate special needs requirements, which involve additional configurations not covered here. Feel free to copy, modify, and configure the script to suit your specific needs.
+
+If your exam type is "car" and you don't require special needs accommodations for the exam, no extra customization is needed. Just change the placeholder values such as driving licence number, test date, postcode, or instructor reference (optional), and you are good to go.
+
+Please note that this script is intended for educational purposes only. Use it responsibly and at your own risk.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
